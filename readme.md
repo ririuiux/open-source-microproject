@@ -17,7 +17,7 @@ Collaborative Programming using VS Code and GitHub
 
 ## Programs Included
 - Simple Calculator in C language (Pradyumna)
-- ......... (swarali)
+- Solving maths equations using C language
 - shopping bill generator (Anushka)
 - Adition of two numbers (Kuldeep)
 
